@@ -1,5 +1,5 @@
 # Gendy3
-Gendy³ is a fixed media performence, combining Iannis Xenakis Gendy3 algorithm with wave-terrain sythesis.
+Gendy³ is a fixed media performence, combining Iannis Xenakis' Gendy3 algorithm with wave-terrain synthesis.
 
 ## Code
 - The main synthesis code is written as a jupyter notebook for easy experimentation
